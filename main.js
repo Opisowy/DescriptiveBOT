@@ -123,4 +123,4 @@ if (command == "ogloszenie") {
    
 });
 
-bot.login('ODM1NDQ4NDgyMjg5NjgwNDA0.YIPmCA.a7vd_bR6qAv3LjPbGjR9LsE0FB4')
+bot.login('token')
